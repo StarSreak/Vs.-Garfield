@@ -1,0 +1,58 @@
+{
+	"storyName": "monday yo bitch ass",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"friends are there",
+			"garfield_Asleep",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"monday blues",
+			"garfield",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"pooky",
+			"garfield",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"lasagna",
+			"garfield",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"garfield",
+		"bf",
+		"gf"
+	],
+	"weekName": "Garfield"
+}

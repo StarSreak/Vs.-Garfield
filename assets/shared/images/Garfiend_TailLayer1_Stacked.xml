@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Garfiend_TailLayer1_Stacked.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Garfiend_TailLayer10000" x="0" y="0" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10001" x="0" y="0" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10002" x="845" y="0" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10003" x="845" y="0" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10004" x="0" y="641" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10005" x="0" y="641" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10006" x="845" y="641" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10007" x="845" y="641" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10008" x="0" y="1282" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10009" x="0" y="1282" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10010" x="0" y="1282" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10011" x="0" y="1282" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10012" x="845" y="1282" width="845" height="641"/>
+	<SubTexture name="Garfiend_TailLayer10013" x="845" y="1282" width="845" height="641"/>
+</TextureAtlas>

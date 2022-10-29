@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Menu_Garfield",
+	"image": "Menu_Garfield",
+	"position": [
+		60,
+		-70
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

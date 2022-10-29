@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				52,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GarfDown_Happy"
+		},
+		{
+			"offsets": [
+				23,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GarfUp_Happy"
+		},
+		{
+			"offsets": [
+				41,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GarfRight_Happy"
+		},
+		{
+			"offsets": [
+				27,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GarfIdle_Happy"
+		},
+		{
+			"offsets": [
+				55,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GarfLeft_Happy"
+		},
+		{
+			"offsets": [
+				33,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "PoseYeah",
+			"indices": [],
+			"name": "GarfPose_Yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garfield_Assets",
+	"position": [
+		40,
+		360
+	],
+	"healthicon": "garfield_Hap",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

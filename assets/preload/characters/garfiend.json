@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Garfiend_Idle_Smol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Garfiend_Left_Smol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Garfiend_Right_Smol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				175
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Garfiend_Up_Smol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Garfiend_Down_Smol",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EternalGarfiendSprites_Sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "garfiend",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		0
+	],
+	"camera_position": [
+		-270,
+		-470
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

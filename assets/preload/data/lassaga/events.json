@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "stage",
+		"player1": "john",
+		"player2": "garfielf",
+		"player3": null,
+		"events": [
+			[
+				93405.4054054054,
+				[
+					[
+						"Change Character",
+						"0",
+						"john_Calm"
+					]
+				]
+			],
+			[
+				139459.459459459,
+				[
+					[
+						"Change Character",
+						"0",
+						"john_Ang"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Lassaga"
+	}
+}

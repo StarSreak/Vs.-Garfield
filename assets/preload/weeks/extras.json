@@ -1,0 +1,50 @@
+{
+	"storyName": "extras",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"groove it down",
+			"jon",
+			[
+				15,
+				213,
+				193
+			]
+		],
+		[
+			"lassaga",
+			"garfielf",
+			[
+				226,
+				123,
+				0
+			]
+		],
+		[
+			"eternal",
+			"garfiend",
+			[
+				155,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "extras"
+}

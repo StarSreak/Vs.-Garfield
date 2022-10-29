@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Odie_Dialogue.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ODIUS_MAXIMUS0000" x="0" y="0" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS0001" x="518" y="0" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS0002" x="1036" y="0" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS0003" x="0" y="499" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS0004" x="518" y="499" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS0005" x="1036" y="499" width="518" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0000" x="0" y="998" width="526" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0001" x="526" y="998" width="526" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0002" x="1052" y="998" width="526" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0003" x="0" y="1497" width="526" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0004" x="526" y="1497" width="526" height="499"/>
+	<SubTexture name="ODIUS_MAXIMUS Loop0005" x="1052" y="1497" width="526" height="499"/>
+</TextureAtlas>

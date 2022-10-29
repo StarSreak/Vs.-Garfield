@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="MenuGarfield_Stacked.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Menu_Garfield0000" x="0" y="0" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0001" x="0" y="0" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0002" x="254" y="0" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0003" x="254" y="0" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0004" x="0" y="282" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0005" x="0" y="282" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0006" x="254" y="282" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0007" x="254" y="282" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0008" x="0" y="564" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0009" x="0" y="564" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0010" x="0" y="564" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0011" x="0" y="564" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0012" x="0" y="564" width="254" height="282"/>
+	<SubTexture name="Menu_Garfield0013" x="0" y="564" width="254" height="282"/>
+</TextureAtlas>

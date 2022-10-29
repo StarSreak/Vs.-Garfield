@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="emptiness_stacked.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="...0000" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="...0001" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="...0002" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="...0003" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="...0004" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="...0005" x="0" y="0" width="0" height="0"/>
+</TextureAtlas>

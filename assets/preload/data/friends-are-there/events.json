@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 1.2,
+		"stage": null,
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 112,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "friends-are-there"
+	}
+}

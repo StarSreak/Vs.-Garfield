@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "john_death"
+		},
+		{
+			"offsets": [
+				-162,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "john_loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "john_retryconfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "johnIdle_calm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "johnLeft_calm0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "johnDown_calm0"
+		},
+		{
+			"offsets": [
+				-59,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "johnRight_calm0"
+		},
+		{
+			"offsets": [
+				-55,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "johnUp_calm0"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "johnLeft_calmmiss"
+		},
+		{
+			"offsets": [
+				-50,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "johnRight_calmmiss"
+		},
+		{
+			"offsets": [
+				0,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "johnDown_calmmiss"
+		},
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "johnUp_calmmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		235,
+		255
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

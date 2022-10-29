@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-550
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GarfIdle_Song0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GarfieldSprites_Asleep",
+	"position": [
+		10,
+		20
+	],
+	"healthicon": "garfield_Asleep",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		20,
+		450
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

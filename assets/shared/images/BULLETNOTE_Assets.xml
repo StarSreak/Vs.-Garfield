@@ -1,0 +1,18 @@
+﻿
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="BULLETNOTE_Assets.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="156" height="145"/>
+	<SubTexture name="purple0000" x="161" y="0" width="145" height="156"/>
+	<SubTexture name="red0000" x="311" y="0" width="145" height="156"/>
+	<SubTexture name="blue hold piece0000" x="461" y="0" width="48" height="44"/>
+	<SubTexture name="blue hold end0000" x="0" y="161" width="48" height="70"/>
+	<SubTexture name="red hold piece0000" x="461" y="0" width="48" height="44"/>
+	<SubTexture name="red hold end0000" x="0" y="161" width="48" height="70"/>
+	<SubTexture name="green hold piece0000" x="461" y="0" width="48" height="44"/>
+	<SubTexture name="green hold end0000" x="0" y="161" width="48" height="70"/>
+	<SubTexture name="purple hold piece0000" x="461" y="0" width="48" height="44"/>
+	<SubTexture name="purple hold end0000" x="0" y="161" width="48" height="70"/>
+	<SubTexture name="green0000" x="53" y="161" width="156" height="145"/>
+</TextureAtlas>

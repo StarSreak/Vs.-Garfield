@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="GarfieldSprites_Sleepy.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="GarfDown_Song10000" x="0" y="0" width="354" height="279"/>
+	<SubTexture name="GarfDown_Song10001" x="354" y="0" width="354" height="279"/>
+	<SubTexture name="GarfDown_Song10002" x="708" y="0" width="354" height="279"/>
+	<SubTexture name="GarfDown_Song10003" x="1062" y="0" width="354" height="279"/>
+	<SubTexture name="GarfDown_Song10004" x="1416" y="0" width="354" height="279"/>
+	<SubTexture name="GarfDown_Song10005" x="0" y="279" width="354" height="279"/>
+	<SubTexture name="GarfIdle_Song10000" x="354" y="279" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10001" x="697" y="279" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10002" x="1040" y="279" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10003" x="1383" y="279" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10004" x="0" y="575" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10005" x="343" y="575" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10006" x="686" y="575" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10007" x="1029" y="575" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10008" x="1372" y="575" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10009" x="0" y="871" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10010" x="343" y="871" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10011" x="686" y="871" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10012" x="1029" y="871" width="343" height="296"/>
+	<SubTexture name="GarfIdle_Song10013" x="1372" y="871" width="343" height="296"/>
+	<SubTexture name="GarfLeft_Song10000" x="0" y="1167" width="393" height="301"/>
+	<SubTexture name="GarfLeft_Song10001" x="393" y="1167" width="393" height="301"/>
+	<SubTexture name="GarfLeft_Song10002" x="786" y="1167" width="393" height="301"/>
+	<SubTexture name="GarfLeft_Song10003" x="1179" y="1167" width="393" height="301"/>
+	<SubTexture name="GarfLeft_Song10004" x="1572" y="1167" width="393" height="301"/>
+	<SubTexture name="GarfLeft_Song10005" x="0" y="1468" width="393" height="301"/>
+	<SubTexture name="GarfRight_Song10000" x="393" y="1468" width="345" height="281"/>
+	<SubTexture name="GarfRight_Song10001" x="738" y="1468" width="345" height="281"/>
+	<SubTexture name="GarfRight_Song10002" x="1083" y="1468" width="345" height="281"/>
+	<SubTexture name="GarfRight_Song10003" x="1428" y="1468" width="345" height="281"/>
+	<SubTexture name="GarfRight_Song10004" x="0" y="1769" width="345" height="281"/>
+	<SubTexture name="GarfRight_Song10005" x="345" y="1769" width="345" height="281"/>
+	<SubTexture name="GarfUp_Song10000" x="690" y="1769" width="351" height="316"/>
+	<SubTexture name="GarfUp_Song10001" x="1041" y="1769" width="351" height="316"/>
+	<SubTexture name="GarfUp_Song10002" x="1392" y="1769" width="351" height="316"/>
+	<SubTexture name="GarfUp_Song10003" x="0" y="2085" width="351" height="316"/>
+	<SubTexture name="GarfUp_Song10004" x="351" y="2085" width="351" height="316"/>
+	<SubTexture name="GarfUp_Song10005" x="702" y="2085" width="351" height="316"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DiscoJon_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DiscoJon_LeftSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DiscoJon_UpSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DiscoJon_RightSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DiscoJon_DownSing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "DiscoJon_Idle"
+		},
+		{
+			"offsets": [
+				220,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "DiscoJon_UpDance"
+		},
+		{
+			"offsets": [
+				21,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DiscoJon_DownDance"
+		},
+		{
+			"offsets": [
+				20,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "DiscoJon_RightDance"
+		},
+		{
+			"offsets": [
+				21,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "DiscoJon_LeftDance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jon_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		125,
+		142
+	],
+	"camera_position": [
+		-70,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

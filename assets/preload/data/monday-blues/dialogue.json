@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_seriously",
+			"text": "Ugh, what gives??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_why",
+			"text": "You know, the point of singing someone a lullaby is to help them sleep, not wake up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_peer",
+			"text": "Wait a second..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_explain",
+			"text": "I take it you're the guy Jon paid to house sit?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yah!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_neutral",
+			"text": "Not gonna lie, I thought you'd be taller."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": ">:("
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_explain",
+			"text": "Anyways, since you're here. I might as well lay down the rules."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_listen",
+			"text": "Rule 1 - I'm in charge."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_listen",
+			"text": "Rule 2 - Don't interrupt my sleep (which you just flagrantly broke.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_listen",
+			"text": "Rule 3 - don't eat the lasagna in the freezer."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_seriously",
+			"text": "you gettin all that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee-Bap skdoop."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_explain",
+			"text": "Not much of a talker, eh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_neutral",
+			"text": "I can relate."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_peer",
+			"text": "So... what's your deal?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_seriously",
+			"text": "Are you some kinda wannabe rapper, or?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": ">\":("
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "throw",
+			"text": "Hmph!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_withmic",
+			"text": "???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bap bi-bop bo."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_seriously",
+			"text": "Seriously?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_why",
+			"text": "Come on, I JUST woke up, and now you're challenging me to a.....  'Song Battle'"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Boo-dap Bai."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_ugh",
+			"text": "*sigh*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "bed_ugh",
+			"text": "Today just had to be a Monday."
+		}
+	]
+}

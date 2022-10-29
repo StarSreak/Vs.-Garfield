@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="GarfieldSprites_Asleep.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="GarfIdle_Song00000" x="0" y="0" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00001" x="310" y="0" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00002" x="620" y="0" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00003" x="0" y="184" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00004" x="310" y="184" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00005" x="620" y="184" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00006" x="0" y="368" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00007" x="310" y="368" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00008" x="620" y="368" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00009" x="0" y="552" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00010" x="310" y="552" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00011" x="620" y="552" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00012" x="0" y="736" width="310" height="184"/>
+	<SubTexture name="GarfIdle_Song00013" x="310" y="736" width="310" height="184"/>
+</TextureAtlas>

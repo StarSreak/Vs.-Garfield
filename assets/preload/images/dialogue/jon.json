@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-160,
+				1
+			],
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"loop_name": "JON LOOP",
+			"idle_name": "JON0"
+		},
+		{
+			"loop_name": "JON LIST LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON LIST0",
+			"anim": "list",
+			"loop_offsets": [
+				-160,
+				-3
+			]
+		},
+		{
+			"loop_name": "JON NEUTRAL LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON NEUTRAL0",
+			"anim": "neutral",
+			"loop_offsets": [
+				-160,
+				-1
+			]
+		},
+		{
+			"loop_name": "JON PLEASED LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON PLEASED0",
+			"anim": "pleased",
+			"loop_offsets": [
+				-160,
+				-1
+			]
+		},
+		{
+			"loop_name": "JON RESIGNED LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON RESIGNED0",
+			"anim": "resigned",
+			"loop_offsets": [
+				-160,
+				-1
+			]
+		},
+		{
+			"loop_name": "JON SHOCKED LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON SHOCKED0",
+			"anim": "shocked",
+			"loop_offsets": [
+				-160,
+				-1
+			]
+		},
+		{
+			"loop_name": "JON YOUKNOW LOOP",
+			"idle_offsets": [
+				-160,
+				-3
+			],
+			"idle_name": "JON YOUKNOW0",
+			"anim": "youknow",
+			"loop_offsets": [
+				-160,
+				-1
+			]
+		}
+	],
+	"image": "Jon_Dialogue"
+}

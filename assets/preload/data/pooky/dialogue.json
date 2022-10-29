@@ -1,0 +1,244 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "BAAAAH!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Oh, stop it. You weren't half bad yourself.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "curious",
+			"text": "Though I wonder, do you ever talk?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "confused",
+			"text": "Or do you just do... this?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "confused",
+			"text": "Bee-doo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, well, it's fine. We both have our own thing, I guess.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "I communicate telepathically...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "frown",
+			"text": "...you go 'Beep Boop Bop.'",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "pleased",
+			"text": "Until we don't/.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "confused",
+			"text": "Beep boop bap ski-bam?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "shocked",
+			"text": "Why do I hate Mondays, you ask?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "frown",
+			"text": "Well...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "hurt",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "hurt",
+			"text": "Because Mondays hate me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "confused",
+			"text": "Oof.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "Eh, It's fine. At least we got a good song and dance out of it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "shocked",
+			"text": "What's that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "No, I haven't forgotten at all.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "confused",
+			"text": "Boo Bee?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "Pooky's my stuffed teddy bear.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bee-bap skidideli do?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "No, he doesn't sing. But he does have a\\nfavorite song.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "Yadabap do-dap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "curious",
+			"text": "Really? Another song battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "Bidododo-doop.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "No battle, just vibes.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pumped",
+			"text": "Aha, so you CAN talk!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "Brap-pap-baloo-dee",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "ohbrother",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pooky"
+		}
+	]
+}

@@ -1,0 +1,356 @@
+{
+	"dialogue": [
+		{
+			"expression": "pleased",
+			"text": "Thank you for coming on such a short Notice, you two.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "No problem, we're always happy to help a fellow artist!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - copy"
+		},
+		{
+			"expression": "talk",
+			"text": "Artists, huh? What do you two specialize in?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "talk",
+			"text": "Music Mostly. Though I do dabble in dance.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "Performance artists, huh? That's cool.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "list",
+			"text": "So anyway, here's the list of errands that need to be run. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "neutral",
+			"text": "The TV's cable subscription is active, and there's some microwave pizza and lasagna in the freezer just in case.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "pleased",
+			"text": "Did you say lasagna? I love lasagna!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "confused",
+			"text": "Meh.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pout",
+			"text": "Oh, hush now. That shit be bussin'.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "neutral",
+			"text": "Actually, the lasagna's not for you guys. it's for my cat.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "confused",
+			"text": "Your...cat??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, he really loves that stuff. In fact he loves all kinds of food! Except raisins and snails....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "resigned",
+			"text": "....and fruitcake.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "youknow",
+			"text": "Then again, nobody likes fruitcake.",
+			"boxState": "normal",
+			"portrait": "jon",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I like fruitcake.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh. Gross.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "pleased",
+			"text": "Anyways, I better get going, My Flight's in an hour and it's a long drive to the airport.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "talk",
+			"text": "Aight, see you when you get back,\\nMr. Garfunkel.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "It's Arbuckle, actually. But yeah, see ya!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jon"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, so I think the first thing to do is think of what we're gonna eat while we're here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "While I do like pizza as much as next girl, having it for every meal would get boring fast.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "I don't mind.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "shocked",
+			"text": "EEP!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh yeah,  haha. Forgot you could actually talk.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "pleased",
+			"text": "But yeah, a little variety would be nice. We could order takeout.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "Hmm...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "sowwy",
+			"text": "What's wrong?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "confused",
+			"text": "Nothing, it's just...something about this house feels oddly familiar. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "sowwy",
+			"text": "Did that Aardvarkle guy say he had a cat? and that it likes lasagna?",
+			"boxState": "normal",
+			"portrait": "bf - Copy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, I think that's what he said.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "Huh. Say, Odie. Where's the cat?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "Ruff!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "odie"
+		},
+		{
+			"expression": "talk",
+			"text": "Upstairs, huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "sowwy",
+			"text": "Are you sure everything's alright?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "talk",
+			"text": "I think I Know who that cat is. But to make sure, I need to go upstairs and check on him.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "Odie doesn't look like he thinks that's a good idea.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "excited",
+			"text": "Come on now, when has that ever stopped either of us?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "excited",
+			"text": "Fair point. Go Get 'em tiger!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "(Could this really be him?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		},
+		{
+			"expression": "thinking",
+			"text": "(Welp, there's only one way to find out.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy"
+		}
+	]
+}

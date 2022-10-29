@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Jon_Dialogue.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="JON0000" x="0" y="0" width="205" height="504"/>
+	<SubTexture name="JON LIST0000" x="205" y="0" width="322" height="504"/>
+	<SubTexture name="JON LIST LOOP0000" x="527" y="0" width="323" height="504"/>
+	<SubTexture name="JON LIST LOOP0001" x="527" y="0" width="323" height="504"/>
+	<SubTexture name="JON LIST LOOP0002" x="850" y="0" width="323" height="504"/>
+	<SubTexture name="JON LIST LOOP0003" x="850" y="0" width="323" height="504"/>
+	<SubTexture name="JON LIST LOOP0004" x="1173" y="0" width="323" height="504"/>
+	<SubTexture name="JON LIST LOOP0005" x="1173" y="0" width="323" height="504"/>
+	<SubTexture name="JON LOOP0000" x="1496" y="0" width="205" height="509"/>
+	<SubTexture name="JON LOOP0001" x="1496" y="0" width="205" height="509"/>
+	<SubTexture name="JON LOOP0002" x="1701" y="0" width="205" height="509"/>
+	<SubTexture name="JON LOOP0003" x="1701" y="0" width="205" height="509"/>
+	<SubTexture name="JON LOOP0004" x="0" y="509" width="205" height="509"/>
+	<SubTexture name="JON LOOP0005" x="0" y="509" width="205" height="509"/>
+	<SubTexture name="JON NEUTRAL0000" x="205" y="509" width="205" height="504"/>
+	<SubTexture name="JON NEUTRAL LOOP0000" x="410" y="509" width="205" height="506"/>
+	<SubTexture name="JON NEUTRAL LOOP0001" x="410" y="509" width="205" height="506"/>
+	<SubTexture name="JON NEUTRAL LOOP0002" x="615" y="509" width="205" height="506"/>
+	<SubTexture name="JON NEUTRAL LOOP0003" x="615" y="509" width="205" height="506"/>
+	<SubTexture name="JON NEUTRAL LOOP0004" x="820" y="509" width="205" height="506"/>
+	<SubTexture name="JON NEUTRAL LOOP0005" x="820" y="509" width="205" height="506"/>
+	<SubTexture name="JON PLEASED0000" x="1025" y="509" width="205" height="504"/>
+	<SubTexture name="JON PLEASED LOOP0000" x="1230" y="509" width="205" height="507"/>
+	<SubTexture name="JON PLEASED LOOP0001" x="1230" y="509" width="205" height="507"/>
+	<SubTexture name="JON PLEASED LOOP0002" x="1435" y="509" width="205" height="507"/>
+	<SubTexture name="JON PLEASED LOOP0003" x="1435" y="509" width="205" height="507"/>
+	<SubTexture name="JON PLEASED LOOP0004" x="1640" y="509" width="205" height="507"/>
+	<SubTexture name="JON PLEASED LOOP0005" x="1640" y="509" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED0000" x="0" y="1018" width="205" height="504"/>
+	<SubTexture name="JON RESIGNED LOOP0000" x="205" y="1018" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED LOOP0001" x="205" y="1018" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED LOOP0002" x="410" y="1018" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED LOOP0003" x="410" y="1018" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED LOOP0004" x="615" y="1018" width="205" height="507"/>
+	<SubTexture name="JON RESIGNED LOOP0005" x="615" y="1018" width="205" height="507"/>
+	<SubTexture name="JON SHOCKED0000" x="820" y="1018" width="205" height="504"/>
+	<SubTexture name="JON SHOCKED LOOP0000" x="1025" y="1018" width="205" height="506"/>
+	<SubTexture name="JON SHOCKED LOOP0001" x="1025" y="1018" width="205" height="506"/>
+	<SubTexture name="JON SHOCKED LOOP0002" x="1230" y="1018" width="205" height="506"/>
+	<SubTexture name="JON SHOCKED LOOP0003" x="1230" y="1018" width="205" height="506"/>
+	<SubTexture name="JON SHOCKED LOOP0004" x="1435" y="1018" width="205" height="506"/>
+	<SubTexture name="JON SHOCKED LOOP0005" x="1435" y="1018" width="205" height="506"/>
+	<SubTexture name="JON YOUKNOW0000" x="1640" y="1018" width="365" height="504"/>
+	<SubTexture name="JON YOUKNOW LOOP0000" x="0" y="1525" width="366" height="506"/>
+	<SubTexture name="JON YOUKNOW LOOP0001" x="0" y="1525" width="366" height="506"/>
+	<SubTexture name="JON YOUKNOW LOOP0002" x="366" y="1525" width="366" height="506"/>
+	<SubTexture name="JON YOUKNOW LOOP0003" x="366" y="1525" width="366" height="506"/>
+	<SubTexture name="JON YOUKNOW LOOP0004" x="732" y="1525" width="366" height="506"/>
+	<SubTexture name="JON YOUKNOW LOOP0005" x="732" y="1525" width="366" height="506"/>
+</TextureAtlas>

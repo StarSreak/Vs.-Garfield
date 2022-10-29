@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="EternalGarfiendSprites_Sprites.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Garfiend_Down_Smol0000" x="0" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0001" x="0" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0002" x="1120" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0003" x="1120" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0004" x="2240" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0005" x="2240" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0006" x="3360" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Down_Smol0007" x="3360" y="0" width="1120" height="1014"/>
+	<SubTexture name="Garfiend_Idle_Smol0000" x="4480" y="0" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0001" x="5600" y="0" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0002" x="6720" y="0" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0003" x="0" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0004" x="1120" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0005" x="2240" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0006" x="3360" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0007" x="4480" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0008" x="5600" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0009" x="5600" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0010" x="5600" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0011" x="6720" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0012" x="6720" y="1014" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Idle_Smol0013" x="0" y="1962" width="1120" height="948"/>
+	<SubTexture name="Garfiend_Left_Smol0000" x="1120" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Left_Smol0001" x="1120" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Left_Smol0002" x="2240" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Left_Smol0003" x="2240" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Left_Smol0004" x="3360" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Left_Smol0005" x="3360" y="1962" width="1120" height="965"/>
+	<SubTexture name="Garfiend_Right_Smol0000" x="4480" y="1962" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Right_Smol0001" x="4480" y="1962" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Right_Smol0002" x="5847" y="1962" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Right_Smol0003" x="5847" y="1962" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Right_Smol0004" x="0" y="2927" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Right_Smol0005" x="0" y="2927" width="1367" height="946"/>
+	<SubTexture name="Garfiend_Up_Smol0000" x="1367" y="2927" width="1120" height="1094"/>
+	<SubTexture name="Garfiend_Up_Smol0001" x="2487" y="2927" width="1120" height="1094"/>
+	<SubTexture name="Garfiend_Up_Smol0002" x="3607" y="2927" width="1120" height="1094"/>
+	<SubTexture name="Garfiend_Up_Smol0003" x="3607" y="2927" width="1120" height="1094"/>
+	<SubTexture name="Garfiend_Up_Smol0004" x="4727" y="2927" width="1120" height="1094"/>
+	<SubTexture name="Garfiend_Up_Smol0005" x="4727" y="2927" width="1120" height="1094"/>
+</TextureAtlas>

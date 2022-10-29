@@ -1,0 +1,323 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-71,
+				-51
+			],
+			"idle_offsets": [
+				-71,
+				-51
+			],
+			"loop_name": "GARFIELD LOOP",
+			"idle_name": "GARFIELD0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-39
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-71,
+				-42
+			],
+			"loop_name": "GARFIELD EXCITED LOOP",
+			"idle_name": "GARFIELD EXCITED0"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-71
+			],
+			"anim": "bed_explain",
+			"loop_offsets": [
+				-100,
+				-70
+			],
+			"idle_name": "GARFIELD BED_EXPLAIN0",
+			"loop_name": "GARFIELD BED_EXPLAIN LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-71
+			],
+			"anim": "bed_listen",
+			"loop_offsets": [
+				-100,
+				-69
+			],
+			"idle_name": "GARFIELD BED_LISTEN0",
+			"loop_name": "GARFIELD BED_LISTEN LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-70
+			],
+			"anim": "bed_neutral",
+			"loop_offsets": [
+				-100,
+				-69
+			],
+			"idle_name": "GARFIELD BED_NEUTRAL0",
+			"loop_name": "GARFIELD BED_NEUTRAL LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-71
+			],
+			"anim": "bed_peer",
+			"loop_offsets": [
+				-100,
+				-70
+			],
+			"idle_name": "GARFIELD BED_PEER0",
+			"loop_name": "GARFIELD BED_PEER LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-71
+			],
+			"anim": "bed_seriously",
+			"loop_offsets": [
+				-100,
+				-70
+			],
+			"idle_name": "GARFIELD BED_SERIOUSLY0",
+			"loop_name": "GARFIELD BED_SERIOUSLY LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-72
+			],
+			"anim": "bed_ugh",
+			"loop_offsets": [
+				-100,
+				-72
+			],
+			"idle_name": "GARFIELD BED_UGH0",
+			"loop_name": "GARFIELD BED_UGH LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-70
+			],
+			"anim": "bed_why",
+			"loop_offsets": [
+				-100,
+				-70
+			],
+			"idle_name": "GARFIELD BED_WHY0",
+			"loop_name": "GARFIELD BED_WHY LOOP"
+		},
+		{
+			"idle_offsets": [
+				-100,
+				-72
+			],
+			"anim": "bed_withmic",
+			"loop_offsets": [
+				-87,
+				-72
+			],
+			"idle_name": "GARFIELD BED_WITHMIC0",
+			"loop_name": "GARFIELD BED_WITHMIC LOOP"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-51
+			],
+			"anim": "concerned",
+			"idle_offsets": [
+				-71,
+				-51
+			],
+			"loop_name": "GARFIELD CONCERNED LOOP",
+			"idle_name": "GARFIELD CONCERNED0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-52
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-71,
+				-53
+			],
+			"loop_name": "GARFIELD CONFUSED LOOP",
+			"idle_name": "GARFIELD CONFUSED0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-51
+			],
+			"anim": "curious",
+			"idle_offsets": [
+				-71,
+				-51
+			],
+			"loop_name": "GARFIELD CURIOUS LOOP",
+			"idle_name": "GARFIELD CURIOUS0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-50
+			],
+			"anim": "disturbed",
+			"idle_offsets": [
+				-71,
+				-50
+			],
+			"loop_name": "GARFIELD DISTURBED LOOP",
+			"idle_name": "GARFIELD DISTURBED0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-50
+			],
+			"anim": "frown",
+			"idle_offsets": [
+				-71,
+				-50
+			],
+			"loop_name": "GARFIELD FROWN LOOP",
+			"idle_name": "GARFIELD FROWN0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-50
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-71,
+				-50
+			],
+			"loop_name": "GARFIELD HAPPY LOOP",
+			"idle_name": "GARFIELD HAPPY0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-55
+			],
+			"anim": "hurt",
+			"idle_offsets": [
+				-71,
+				-57
+			],
+			"loop_name": "GARFIELD HURT LOOP",
+			"idle_name": "GARFIELD HURT0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-53
+			],
+			"anim": "ohbrother",
+			"idle_offsets": [
+				-71,
+				-52
+			],
+			"loop_name": "GARFIELD OHBROTHER LOOP",
+			"idle_name": "GARFIELD OHBROTHER0"
+		},
+		{
+			"loop_offsets": [
+				-71,
+				-66
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-71,
+				-65
+			],
+			"loop_name": "GARFIELD PISSED LOOP",
+			"idle_name": "GARFIELD PISSED0"
+		},
+		{
+			"loop_name": "GARFIELD PLEASED LOOP",
+			"idle_offsets": [
+				-71,
+				-52
+			],
+			"idle_name": "GARFIELD PLEASED0",
+			"anim": "pleased",
+			"loop_offsets": [
+				-71,
+				-51
+			]
+		},
+		{
+			"loop_name": "GARFIELD PUMPED LOOP",
+			"idle_offsets": [
+				-71,
+				-53
+			],
+			"idle_name": "GARFIELD PUMPED0",
+			"anim": "pumped",
+			"loop_offsets": [
+				-71,
+				-52
+			]
+		},
+		{
+			"loop_name": "GARFIELD SHOCK LOOP",
+			"idle_offsets": [
+				-71,
+				-52
+			],
+			"idle_name": "GARFIELD SHOCK0",
+			"anim": "shocked",
+			"loop_offsets": [
+				-71,
+				-51
+			]
+		},
+		{
+			"loop_name": "GARFIELD THUMBSUP LOOP",
+			"idle_offsets": [
+				-71,
+				-52
+			],
+			"idle_name": "GARFIELD THUMBSUP0",
+			"anim": "thumbsup",
+			"loop_offsets": [
+				-71,
+				-51
+			]
+		},
+		{
+			"loop_name": "GARFIELD WHATEVER LOOP",
+			"idle_offsets": [
+				-71,
+				-52
+			],
+			"idle_name": "GARFIELD WHATEVER0",
+			"anim": "whatever",
+			"loop_offsets": [
+				-71,
+				-50
+			]
+		}
+	],
+	"image": "Garfield_Dialogue"
+}

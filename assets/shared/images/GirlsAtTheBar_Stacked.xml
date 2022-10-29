@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="GirlsAtTheBar_Stacked.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="GirlsAtTheBar0000" x="0" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0001" x="0" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0002" x="304" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0003" x="304" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0004" x="608" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0005" x="912" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0006" x="1216" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0007" x="1520" y="0" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0008" x="0" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0009" x="0" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0010" x="304" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0011" x="304" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0012" x="304" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0013" x="608" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0014" x="608" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0015" x="912" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0016" x="912" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0017" x="1216" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0018" x="1216" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0019" x="1520" y="824" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0020" x="0" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0021" x="304" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0022" x="608" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0023" x="912" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0024" x="912" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0025" x="1216" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0026" x="1216" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0027" x="1216" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0028" x="1520" y="1648" width="304" height="824"/>
+	<SubTexture name="GirlsAtTheBar0029" x="1520" y="1648" width="304" height="824"/>
+</TextureAtlas>

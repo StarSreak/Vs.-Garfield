@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="LogoBumpin.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="690" height="467"/>
+	<SubTexture name="logo bumpin0001" x="690" y="0" width="690" height="467"/>
+	<SubTexture name="logo bumpin0002" x="0" y="467" width="690" height="467"/>
+	<SubTexture name="logo bumpin0003" x="690" y="467" width="690" height="467"/>
+	<SubTexture name="logo bumpin0004" x="0" y="934" width="690" height="467"/>
+	<SubTexture name="logo bumpin0005" x="690" y="934" width="690" height="467"/>
+	<SubTexture name="logo bumpin0006" x="0" y="1401" width="690" height="467"/>
+	<SubTexture name="logo bumpin0007" x="690" y="1401" width="690" height="467"/>
+	<SubTexture name="logo bumpin0008" x="0" y="1868" width="690" height="467"/>
+	<SubTexture name="logo bumpin0009" x="690" y="1868" width="690" height="467"/>
+	<SubTexture name="logo bumpin0010" x="0" y="2335" width="690" height="467"/>
+	<SubTexture name="logo bumpin0011" x="690" y="2335" width="690" height="467"/>
+	<SubTexture name="logo bumpin0012" x="0" y="2802" width="690" height="467"/>
+	<SubTexture name="logo bumpin0013" x="690" y="2802" width="690" height="467"/>
+</TextureAtlas>

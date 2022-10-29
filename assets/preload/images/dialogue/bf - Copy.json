@@ -1,0 +1,167 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "BF - Copy_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "BF0",
+			"loop_name": "BF LOOP"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF CONFUSED LOOP",
+			"idle_name": "BF CONFUSED0"
+		},
+		{
+			"loop_offsets": [
+				2,
+				0
+			],
+			"anim": "pleased",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "BF PLEASED LOOP",
+			"idle_name": "BF PLEASED0"
+		},
+		{
+			"loop_offsets": [
+				-16,
+				-18
+			],
+			"anim": "pout",
+			"idle_offsets": [
+				-16,
+				-18
+			],
+			"loop_name": "BF POUT LOOP",
+			"idle_name": "BF POUT0"
+		},
+		{
+			"loop_offsets": [
+				64,
+				-6
+			],
+			"anim": "pwease",
+			"idle_offsets": [
+				52,
+				-13
+			],
+			"loop_name": "BF PWEASE LOOP",
+			"idle_name": "BF PWEASE0"
+		},
+		{
+			"loop_name": "BF SOWWY LOOP",
+			"idle_offsets": [
+				-40,
+				-12
+			],
+			"idle_name": "BF SOWWY0",
+			"anim": "sowwy",
+			"loop_offsets": [
+				-39,
+				-5
+			]
+		},
+		{
+			"loop_name": "BF THINKING LOOP",
+			"idle_offsets": [
+				-39,
+				-12
+			],
+			"idle_name": "BF THINKING0",
+			"anim": "thinking",
+			"loop_offsets": [
+				-38,
+				-12
+			]
+		},
+		{
+			"loop_name": "BF THROW LOOP",
+			"idle_offsets": [
+				136,
+				14
+			],
+			"idle_name": "BF THROW0",
+			"anim": "throw",
+			"loop_offsets": [
+				145,
+				19
+			]
+		},
+		{
+			"loop_name": "BF WAIT LOOP",
+			"idle_offsets": [
+				80,
+				-13
+			],
+			"idle_name": "BF WAIT0",
+			"anim": "wait",
+			"loop_offsets": [
+				89,
+				-6
+			]
+		}
+	]
+}

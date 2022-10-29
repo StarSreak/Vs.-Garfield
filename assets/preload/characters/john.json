@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-27,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "johnIdle_normal"
+		},
+		{
+			"offsets": [
+				42,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "johnLeft_normal0"
+		},
+		{
+			"offsets": [
+				131,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "johnRight_normal0"
+		},
+		{
+			"offsets": [
+				9,
+				-303
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "johnDown_normal0"
+		},
+		{
+			"offsets": [
+				-35,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "johnUp_normal0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-100
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "johnLeft_normalmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "johnRight_normalmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-320
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "johnDown_normalmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "johnUp_normalmiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "john_death"
+		},
+		{
+			"offsets": [
+				-162,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "john_loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "john_retryconfirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle_ref",
+			"loop": false,
+			"name": "johnIdle_normal"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		235,
+		255
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

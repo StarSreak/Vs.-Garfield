@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GarfDown_Angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GarfUp_Angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GarfRight_Angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GarfLeft_Angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GarfIdle_SlightAngry"
+		},
+		{
+			"offsets": [
+				19,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "brocoolsdown",
+			"indices": [],
+			"name": "GarfCoolsDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garfield_Assets",
+	"position": [
+		40,
+		360
+	],
+	"healthicon": "garfield_SlightAng",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

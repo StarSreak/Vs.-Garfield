@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "john_death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				-228
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "john_loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "john_retryconfirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-21
+			],
+			"anim": "idle_ref",
+			"fps": 24,
+			"name": "johnIdle_normal",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "johnIdle_pissed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "johnLeft_pissed0"
+		},
+		{
+			"offsets": [
+				51,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "johnRight_pissed0"
+		},
+		{
+			"offsets": [
+				19,
+				-443
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "johnDown_pissed0"
+		},
+		{
+			"offsets": [
+				-5,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "johnUp_pissed0"
+		},
+		{
+			"offsets": [
+				40,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "johnLeft_pissedmiss"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "johnRight_pissedmiss"
+		},
+		{
+			"offsets": [
+				100,
+				-370
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "johnDown_pissedmiss"
+		},
+		{
+			"offsets": [
+				-20,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "johnUp_pissedmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		235,
+		255
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

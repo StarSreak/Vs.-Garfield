@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "pumped",
+			"text": "Alright, song's over. Let's eat.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, and for the record...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "pissed",
+			"text": "Never say 'meow' like that again.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield"
+		},
+		{
+			"expression": "shocked",
+			"text": "eep.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "THE END",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "emptiness"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "emptiness"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "emptiness"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, thanks for playing our mod! We spent months of time and effort making it, we hope you enjoyed it!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "emptiness"
+		},
+		{
+			"expression": "talk",
+			"text": "and, P.S., you've unlocked some extras in freeplay. But don't tell anyone I told you that. Thanks for playing!",
+			"boxState": "normal",
+			"portrait": "emptiness",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

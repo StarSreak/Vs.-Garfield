@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Pooky.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="PookyApproves0000" x="0" y="0" width="156" height="184"/>
+	<SubTexture name="PookyApproves0001" x="156" y="0" width="156" height="184"/>
+	<SubTexture name="PookyApproves0002" x="312" y="0" width="156" height="184"/>
+	<SubTexture name="PookyApproves0003" x="0" y="184" width="156" height="184"/>
+	<SubTexture name="PookyApproves0004" x="156" y="184" width="156" height="184"/>
+	<SubTexture name="PookyApproves0005" x="312" y="184" width="156" height="184"/>
+	<SubTexture name="PookyApproves0006" x="0" y="368" width="156" height="184"/>
+	<SubTexture name="PookyApproves0007" x="156" y="368" width="156" height="184"/>
+	<SubTexture name="PookyApproves0008" x="312" y="368" width="156" height="184"/>
+	<SubTexture name="PookyApproves0009" x="0" y="552" width="156" height="184"/>
+	<SubTexture name="PookyApproves0010" x="156" y="552" width="156" height="184"/>
+	<SubTexture name="PookyApproves0011" x="312" y="552" width="156" height="184"/>
+	<SubTexture name="PookyApproves0012" x="0" y="736" width="156" height="184"/>
+	<SubTexture name="PookyApproves0013" x="156" y="736" width="156" height="184"/>
+	<SubTexture name="PookyStatic0000" x="312" y="736" width="155" height="184"/>
+</TextureAtlas>

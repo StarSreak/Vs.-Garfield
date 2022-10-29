@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-454
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GarfDown_Song1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-413
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GarfUp_Song1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-429
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "GarfLeft_Song1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-451
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GarfRight_Song1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-435
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GarfIdle_Song1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GarfieldSprites_Sleepy",
+	"position": [
+		10,
+		20
+	],
+	"healthicon": "garfield",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		-70,
+		490
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

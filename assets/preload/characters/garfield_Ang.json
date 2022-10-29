@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GarfDown_Angry"
+		},
+		{
+			"offsets": [
+				23,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GarfIdle_Angry"
+		},
+		{
+			"offsets": [
+				8,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GarfUp_Angry"
+		},
+		{
+			"offsets": [
+				22,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GarfRight_Angry"
+		},
+		{
+			"offsets": [
+				24,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GarfLeft_Angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garfield_Assets",
+	"position": [
+		40,
+		360
+	],
+	"healthicon": "garfield_Ang",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

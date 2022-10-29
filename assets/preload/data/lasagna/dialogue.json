@@ -1,0 +1,276 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The bear has been appeased. We may live to see yet another day."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "Haha, just kidding. He did like the song,\\nthough."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boop."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Say, what's that smell?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Is that-?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf - Copy",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "Boyfriend! Come on down with the cat! I just cooked up some FRESH lasagna!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "LASAGNA?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "Well, blue-face. It's been fun, but my next meal awaits."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "wait",
+			"text": "Woah, hold up!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "sowwy",
+			"text": "I know lasagna is kinda like your thing and all..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "But can we have one more song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You really like singing, don't you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It's pretty much the basis of my existence."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "disturbed",
+			"text": "That's.... kinda depressing."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "...but I think you can wait until after I'm done."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "sowwy",
+			"text": "There's also another reason..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "Garfield. Believe It or not, you're one of my heroes."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "Hey, it's cool. I'm one of my heroes too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pleased",
+			"text": "You used to have such a thrilling music career.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "'The Notorious F.A.T.' You were one of my favorite artists!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "sowwy",
+			"text": "Then one day, you just... split the scene."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "To think I would find you here, of all places..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "concerned",
+			"text": "Look kid, I'm flattered and all, but that lasagna your dance parter made is getting cold."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pwease",
+			"text": "Just one more song!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "wait",
+			"text": "pleeeeeeeease~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "sowwy",
+			"text": "It would mean so much to me."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Besides, this game literally can't continue until you do."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "ohbrother",
+			"text": "*sigh*, this monday just keeps getting better and better."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "whatever",
+			"text": "Fine. I'll humor you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "pumped",
+			"text": "But don't blame me if you can't keep up!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf - Copy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Be-bop skado-bap biddi bam badam beep."
+		}
+	]
+}

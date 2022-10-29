@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EternalBFnJon_Idle_Reversed"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "EternalBFnJon_SHOOT_Reversed"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EternalBFnJon_Left_Reversed0"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EternalBFnJon_Down_Reversed0"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EternalBFnJon_Right_Reversed0"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EternalBFnJon_Up_Reversed0"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "EternalBFnJon_DownMiss_Reversed"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "EternalBFnJon_RightMiss_Reversed"
+		},
+		{
+			"offsets": [
+				209,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "EternalBFnJon_LeftMiss_Reversed"
+		},
+		{
+			"offsets": [
+				210,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "EternalBFnJon_Death_Reversed"
+		},
+		{
+			"offsets": [
+				-131,
+				-322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "EternalBFnJon_RetryConfirm_Reversed"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-131,
+				-324
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "EternalBFnJon_RetryLoop_Reversed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-250
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "EternalBFnJon_UpMiss_Reversed",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EternalBFSprites_Stacked",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eternalboys",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		193,
+		153
+	],
+	"camera_position": [
+		-110,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
